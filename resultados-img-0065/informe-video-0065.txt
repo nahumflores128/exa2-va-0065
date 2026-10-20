@@ -1,0 +1,11 @@
+INFORME DE PROCESAMIENTO DE VIDEO
+=============================================
+Video: video gato 0065.mp4
+Resolucion original: 1080 x 1920
+FPS originales: 30.00
+Duracion estimada: 22.77 s
+Fotogramas leidos: 683
+Fotogramas guardados: 12
+FPS promedio de procesamiento: 46.36
+Tiempo total de ejecucion: 30.65 s
+Intervalo de guardado: 2.0 s
